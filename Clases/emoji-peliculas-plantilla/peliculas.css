@@ -1,0 +1,31 @@
+@charset "utf8";
+
+html {
+    background-color: hsl(35, 100%, 90%);
+    font-family: sans-serif;
+}
+
+h1 {
+    color: hsl(35, 100%, 30%);
+    text-transform: uppercase;
+}
+
+span.par {
+    background-color: white;
+}
+
+p.pregunta {
+    color: hsl(35, 100%, 50%);
+}
+
+span {
+    background-color: hsl(325, 100%, 90%);
+}
+
+details {
+    font-size: 400%;
+}
+
+p {
+    font-size: 2rem;
+}

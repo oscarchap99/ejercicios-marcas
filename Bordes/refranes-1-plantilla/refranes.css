@@ -1,0 +1,53 @@
+@charset "utp8";
+html{
+    font-family: sans-serif;
+    font-size: 150%;
+}
+h1{
+    border: black 5px solid;
+    text-transform: uppercase;
+    text-align: center;
+
+}
+p{
+    text-align: justify;
+}
+p.hacer{
+
+    border-left: red 20px double;
+    border-top: red 20px double;
+}
+
+p.aprender{
+    border-top: blue 5px dashed;
+    border-bottom: blue 20px dashed;
+    border-left: green 40px solid;
+    border-right: green 10px dashed;
+}
+
+p.atender{
+    border-top: hsl(51, 100%, 50%) 40px double;
+    border-bottom: hsl(51, 100%, 50%) 40px double;
+    border-right: hsl(51, 100%, 50%) 10px double;
+    border-left: hsl(51, 100%, 50%) 10px double;
+}
+
+p.Lucas{
+    border-top: hsl(120, 100%, 50%) 20px solid;
+    border-bottom: blue 20px solid;
+
+}
+
+p.estudiante{
+    border-top: red 40px dashed;
+    border-left: black 40px solid;
+    border-right: black 40px solid;
+    border-bottom: black 40px dotted;
+}
+
+p.maestro{
+    border-top: black 10px dotted;
+    border-left: red 40px double;
+    border-right: black 40px solid;
+    border-bottom: black 20px dashed;
+}

@@ -1,0 +1,37 @@
+@charset "utf8";
+
+html {
+    background-color: hsl(145, 51%, 35%);
+}
+
+h1 {
+    text-align: left;
+    font-size: 300%;
+    font-family:sans-serif;
+    text-transform:capitalize;
+}
+
+p.numeros {
+    color: hsl(345, 80%, 50%);
+    font-size: 150%;
+    font-family:cursive;    
+}
+
+p.child {
+    color: hsl(0, 0%, 100%);
+    font-size: 150%;
+    font-family:serif;
+    font-style:oblique;
+}
+
+p.animales {
+    color: hsl(38, 83%, 84%);
+    font-size: 150%;
+    font-family:sans-serif;
+}
+
+p.libros {
+    color: hsl(35, 100%, 55%);
+    font-size: 200%;
+    font-family:monospace;    
+}

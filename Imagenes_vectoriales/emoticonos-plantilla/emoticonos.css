@@ -1,0 +1,44 @@
+@charset "utf8";
+
+html {
+    background-color: hsl(45, 100%, 95%);
+}
+
+h1 {
+    text-align: center;
+    font-size: 400%;
+    font-family: sans-serif;
+    text-transform: uppercase;
+}
+
+p {
+    font-family: sans-serif;
+    font-size: 200%;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: justify;
+}
+
+pre {
+    white-space: pre-wrap;
+    background-color: hsl(0, 0%, 93%);
+    font-size: 200%;
+    margin-left: 25%;
+    margin-right: 25%;
+    border: black 3px solid;
+    text-align: justify;
+}
+
+address {
+    font-size: 200%;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: justify;
+    font-family: sans-serif;
+    border-top: black 3px solid;
+    padding-top: 20px;
+}
+
+img.sonrisa {
+    float: left;
+}

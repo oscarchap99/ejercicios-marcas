@@ -1,0 +1,19 @@
+html {
+    background-color: hsl(197, 50%, 85%)
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-size: 300%;
+    
+}
+
+h2 {
+    background-color: hsl(198, 51%, 50%)
+}
+
+h3 {
+    background-color: hsl(198, 51%, 65%)
+}

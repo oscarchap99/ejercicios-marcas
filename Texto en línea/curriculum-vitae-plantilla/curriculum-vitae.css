@@ -1,0 +1,52 @@
+@charset "utf8";
+
+html {
+    background-color: hsl(200, 16%, 85%);
+    font-family: sans-serif;
+    text-align: justify;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 250%;
+    color: hsl(0, 0%, 20%);
+}
+
+h2 {
+    background-color: hsl(201, 15%, 55%);
+    color: hsl(213, 20%, 32%);
+    text-decoration: underline;
+    font-size: 200%;
+}
+
+h3 {
+    background-color: hsl(200, 15%, 65%);
+    color: hsl(200, 15%, 40%);
+    font-size: 130%;
+    font-style: italic;
+    
+
+}
+
+p {
+    background-color: hsl(199, 15%, 75%);
+}
+
+strong {
+    color: hsl(200, 100%, 30%);
+    font-weight: normal;
+
+}
+
+em {
+    color: hsl(200, 100%, 40%);
+    font-style: normal;
+    font-weight: bold;
+}
+
+address {
+    background-color: rgb(255, 255, 255);
+    text-align: right;
+    font-weight: bold;
+}
